@@ -1,0 +1,15 @@
+.homeCardButton{
+    background-color: rgb(131, 149, 149);
+}
+.homeCardButton:hover{
+    background-color: rgb(137, 213, 127);
+}
+
+.select{
+    background-color: #7C8584;
+    color:#121B28;
+}
+.select:hover{
+    background-color: #121B28;
+    color: white;
+}
